@@ -32,7 +32,7 @@ bl_info = {
 import bpy
 
 class OriginToSelection(bpy.types.Operator):
-    bl_idname = "object.otos"
+    bl_idname = "origin2selection.bba"
     bl_label = "Origin to edit selection"
     bl_options = {'REGISTER', 'UNDO'}
 

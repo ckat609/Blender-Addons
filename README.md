@@ -5,3 +5,6 @@ This addon lets you move an object's pivot point to whatever is selected in edit
 
 Usage:
 While in edit mode, select one or more vertices/edges/face and right click to load the specials menu and then click on "origin to edit selection".
+
+Hello World!
+Hello again!
